@@ -1,2 +1,2 @@
 https://docs.getdbt.com/
-
+#learn-on-demand channel in dbt Slack
